@@ -191,7 +191,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fstab.qcom \
     init.apollo.rc \
-	init.apollo.perf.rc \
+    init.apollo.perf.rc \
     init.target.rc \
     ueventd.apollo.rc
 
@@ -322,10 +322,6 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_VENDOR_PROPERTIES += \
     vendor.sys.thermal.data.path=/data/vendor/thermal/
-
-# Vendor Service Manager
-PRODUCT_PACKAGES += \
-    vndservicemanager
 
 # Vendor
 $(call inherit-product, vendor/xiaomi/apollo/apollo-vendor.mk)
