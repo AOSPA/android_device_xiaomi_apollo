@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eab6293a_e6348da5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2024-01-08T19:18:56Z",
+      "side": 1,
+      "message": "Apollo is API 29 https://github.com/AOSPA/android_device_xiaomi_apollo/blob/sapphire/device.mk#L313\n\nYou should keep this config.",
+      "revId": "d389666c7f0ec1df43048580d1d10d6149393344",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
